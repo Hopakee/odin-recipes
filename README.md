@@ -1,0 +1,1 @@
+This is a readme about what this project is about, not sure yet. Haven't even read the assignment so far.
